@@ -1,8 +1,9 @@
 string = '12345612346'
-count = {}
+repeats = {}
 
 for i in string:
-    count.setdefault(i,0)
-    count[i] += 1
-    
-print(count)
+    repeats.setdefault(i,0)
+    repeats[i] += 1
+
+for item in repeats.items():
+    print(item)
