@@ -1,5 +1,6 @@
-# atbs
-Projects suggested by Automate the Boring Stuff with Python
+# Automate the Boring Stuff with Python
+
+Projects/scripts suggested by the book 'Automate the Boring Stuff with Python'
 
 
 commaCode.py - Forms a string out of a list provided by the function. It adds a comma, 'and' and full stop accordingly.
