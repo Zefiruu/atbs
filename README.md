@@ -10,3 +10,11 @@ coinFlipStreaks.py - Shows the probability in % of getting Heads or Tails six ti
 pictureGrid.py - Converts a list/grid to print a heart in the console.
 
 characterCount.py - Counts how many times a character is repeated within a string.
+
+
+
+
+
+
+Stopped on chapter Six
+Once you get the chance, do the practice exercises in Chapter 5.
