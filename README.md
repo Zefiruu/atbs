@@ -13,6 +13,8 @@ Projects/scripts suggested by the book 'Automate the Boring Stuff with Python'
 
 * enhancedClipboard.py - Script to fetch data and save to clipboard. Useful for e-mails.
 
+* bullet_point.py - Adds '* ' to start of content saved on User's clipboard.
+
 
 
 
