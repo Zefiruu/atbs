@@ -15,6 +15,7 @@ Projects/scripts suggested by the book 'Automate the Boring Stuff with Python'
 
 * bullet_point.py - Adds '* ' to start of content saved on User's clipboard.
 
+* chess_validator.py - Checks if dictionary provided contains a valid chessboard. For loop and regex used.
 
 
 
